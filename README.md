@@ -1,11 +1,12 @@
-#Metamask Wallet connection
+## Metamask Wallet connection
 
-##Steps to run the codebase
-$ npm install $ npm start
+## Steps to run the codebase
+$ npm install 
+$ npm start
 
 navigate browser to localhost:3000
 
-##Tech Stack
+## Tech Stack
 React Js,Web3js
 
 ## Available Scripts
