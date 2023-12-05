@@ -1,6 +1,6 @@
 #Metamask Wallet connection
 
-### Steps to run the codebase
+##Steps to run the codebase
 $ npm install $ npm start
 
 navigate browser to localhost:3000
